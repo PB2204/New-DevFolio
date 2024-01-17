@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/pb2204/New-Portfolio#readme",
   "dependencies": {
-    "eslint-plugin-prettier": "^5.0.1",
-    "prettier": "^3.1.0"
+    "eslint-plugin-prettier": "^5.1.0",
+    "prettier": "^3.0.3"
   },
   "devDependencies": {
     "eslint": "^8.50.0",
